@@ -1,0 +1,19 @@
+h1 {
+    color: red;
+}
+
+.blue-text {
+    color: blue;
+}
+
+ul li {
+    color: pink;
+}
+
+#green-text {
+    color: green;
+}
+
+.large-text {
+    font-size: 2em;
+}

@@ -1,0 +1,12 @@
+.start > span {
+    color: red;
+}
+
+.start div p,
+.end {
+    color: blue;
+}
+
+.end {
+    text-transform: capitalize;
+}

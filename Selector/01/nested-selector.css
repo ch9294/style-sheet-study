@@ -1,0 +1,14 @@
+p {
+    border: 1px solid black;
+}
+.text-center {
+    text-align: center;
+}
+
+.text-center.text-large {
+    font-size: 2em;
+}
+
+.text-center.text-large.text-blue {
+    color: blue;
+}
